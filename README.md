@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Darksadas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Darksadas/Darksadas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://github.com/sanuwaofficial">
+        <img align="center"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Dark%20+%20sadas+..."
+            alt="Typing SVG"
+        />
+    </a>
+</p>                
