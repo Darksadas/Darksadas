@@ -20,6 +20,5 @@
 
 <p align="center"> <a href="https://github.com/Darksadas"><img src="https://github-readme-stats.vercel.app/api?username=Darksadas&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF&show_icons=TRUE&icon_color=00AEFF" > </a> </p>
 
-<p align="center"> <a href="https://github.com/Darksadas"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darksadas&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF" > </a> </p>
 
 
