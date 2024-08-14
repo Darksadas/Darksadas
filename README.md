@@ -6,4 +6,9 @@
             alt="Typing SVG"
         />
     </a>
-</p>                
+</p>  
+
+- 🚀 ┃Programer & Web desiner┃
+ 
+- 👀 I’m interested on whatsapp bots
+
